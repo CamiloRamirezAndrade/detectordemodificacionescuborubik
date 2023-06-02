@@ -12,4 +12,4 @@ Para este caso no es necesario ejecutarlo todo si no que se dejaran los csv con 
 
 ## Resultados
 
-Al final se obtuvo un accuaracy del 62% con un random forest de 500 arboles y 100 de profundidad
+Al final se obtuvo un accuaracy del 62% con un random forest de 500 arboles y 100 de profundidad y todo el contenido se puede ver en https://youtu.be/CCGMeWPLHOw
